@@ -334,13 +334,13 @@ def analyze_data():
             st.warning("Ainda não há dados processados para análise.")
 
         # Atualiza automaticamente a página a cada 30 segundos
-        now = datetime.datetime.now()
-        seconds = now.second
+        #now = datetime.datetime.now()
+        #seconds = now.second
 
         # Espera até o próximo ciclo de 00 ou 30 segundos
-        sleep_time = 30 - seconds if seconds < 30 else 60 - seconds
-        time.sleep(sleep_time)
-        st.rerun()
+        #sleep_time = 30 - seconds if seconds < 30 else 60 - seconds
+        #time.sleep(sleep_time)
+        #st.rerun()
 
 
 
