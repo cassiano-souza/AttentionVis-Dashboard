@@ -1,0 +1,61 @@
+Timestamp,AudioClass,AudioScore,AudioGroup,ActiveWindow,URL,HeadPose
+15:32:43 16/02/2025,Silence,0.19921875,Ambiente Silencioso,Visual Studio Code,,Olhando para Frente
+15:32:48 16/02/2025,Animal,0.1484375,Natureza e Ambiente,zoom.us,,Olhando para Frente
+15:32:53 16/02/2025,Speech,0.98046875,Fala e Vozes,zoom.us,,Olhando para Frente
+15:32:58 16/02/2025,Speech,0.98046875,Fala e Vozes,zoom.us,,Olhando para Frente
+15:33:03 16/02/2025,Speech,0.98828125,Fala e Vozes,zoom.us,,Olhando para Frente
+15:33:08 16/02/2025,Speech,0.98046875,Fala e Vozes,zoom.us,,Olhando para Frente
+15:33:13 16/02/2025,Speech,0.5859375,Fala e Vozes,zoom.us,,Olhando para Frente
+15:33:18 16/02/2025,Speech,0.98828125,Fala e Vozes,zoom.us,,Olhando para Frente
+15:33:23 16/02/2025,Speech,0.98046875,Fala e Vozes,zoom.us,,Olhando para Frente
+15:33:28 16/02/2025,Speech,0.98046875,Fala e Vozes,zoom.us,,Olhando para Frente
+15:33:33 16/02/2025,Speech,0.9921875,Fala e Vozes,zoom.us,,Olhando para Frente
+15:33:38 16/02/2025,Speech,0.98828125,Fala e Vozes,zoom.us,,Olhando para Frente
+15:33:43 16/02/2025,Chant,0.33203125,Fala e Vozes,zoom.us,,Olhando para Frente
+15:33:48 16/02/2025,Speech,0.96875,Fala e Vozes,zoom.us,,Olhando para Frente
+15:33:53 16/02/2025,Speech,0.05859375,Fala e Vozes,zoom.us,,Olhando para Frente
+15:33:58 16/02/2025,Speech,0.08203125,Fala e Vozes,zoom.us,,Olhando para Frente
+15:34:03 16/02/2025,Mechanical fan,0.08203125,Ruídos Mecânicos e Veiculares,zoom.us,,Olhando para Frente
+15:34:08 16/02/2025,Mechanical fan,0.08203125,Ruídos Mecânicos e Veiculares,zoom.us,,Olhando para Frente
+15:34:14 16/02/2025,Speech,0.04296875,Fala e Vozes,zoom.us,,Olhando para Frente
+15:34:19 16/02/2025,Speech,0.984375,Fala e Vozes,zoom.us,,Olhando para Frente
+15:34:24 16/02/2025,Speech,0.984375,Fala e Vozes,zoom.us,,Olhando para Frente
+15:34:29 16/02/2025,Speech,0.984375,Fala e Vozes,zoom.us,,Olhando para Frente
+15:34:34 16/02/2025,Speech,0.9921875,Fala e Vozes,zoom.us,,Olhando para Frente
+15:34:39 16/02/2025,Speech,0.984375,Fala e Vozes,zoom.us,,Olhando para Frente
+15:34:44 16/02/2025,Speech,0.98828125,Fala e Vozes,zoom.us,,Olhando para Frente
+15:34:49 16/02/2025,Speech,0.984375,Fala e Vozes,zoom.us,,Olhando para Frente
+15:34:54 16/02/2025,Speech,0.109375,Fala e Vozes,zoom.us,,Olhando para Frente
+15:34:59 16/02/2025,Speech,0.33203125,Fala e Vozes,Microsoft Word,,Olhando para Frente
+15:35:04 16/02/2025,Animal,0.19921875,Natureza e Ambiente,Microsoft Word,,Olhando para Frente
+15:35:09 16/02/2025,Speech,0.05859375,Fala e Vozes,Microsoft Word,,Olhando para Frente
+15:35:14 16/02/2025,White noise,0.08203125,Ambiente Silencioso,Microsoft Word,,Olhando para Frente
+15:35:19 16/02/2025,Speech,0.95703125,Fala e Vozes,Microsoft Word,,Olhando para Frente
+15:35:24 16/02/2025,Speech,0.9921875,Fala e Vozes,Microsoft Word,,Olhando para Frente
+15:35:29 16/02/2025,Speech,0.984375,Fala e Vozes,Microsoft Word,,Olhando para Frente
+15:35:34 16/02/2025,Speech,0.9921875,Fala e Vozes,Microsoft Word,,Olhando para Frente
+15:35:39 16/02/2025,Speech,0.98046875,Fala e Vozes,Microsoft Word,,Olhando para Frente
+15:35:44 16/02/2025,Speech,0.08203125,Fala e Vozes,Microsoft Word,,Olhando para Frente
+15:35:49 16/02/2025,Speech,0.98828125,Fala e Vozes,Safari,instagram.com,Olhando para Frente
+15:35:55 16/02/2025,Speech,0.984375,Fala e Vozes,Safari,instagram.com,Olhando para Frente
+15:36:00 16/02/2025,Animal,0.109375,Natureza e Ambiente,Safari,instagram.com,Olhando para Frente
+15:36:05 16/02/2025,"Inside, small room",0.08203125,Ruídos de Fundo Neutros,Safari,instagram.com,Olhando para Frente
+15:36:10 16/02/2025,Speech,0.05859375,Fala e Vozes,Safari,instagram.com,Olhando para Frente
+15:36:15 16/02/2025,White noise,0.19921875,Ambiente Silencioso,Safari,instagram.com,Olhando para Frente
+15:36:20 16/02/2025,White noise,0.1484375,Ambiente Silencioso,Safari,instagram.com,Olhando para Frente
+15:36:25 16/02/2025,White noise,0.109375,Ambiente Silencioso,Safari,instagram.com,Olhando para Frente
+15:36:30 16/02/2025,Speech,0.05859375,Fala e Vozes,Safari,instagram.com,Olhando para Frente
+15:36:35 16/02/2025,Rustle,0.08203125,Ruídos de Fundo Neutros,Safari,instagram.com,Olhando para Frente
+15:36:40 16/02/2025,Spray,0.5859375,Não Classificado,Safari,instagram.com,Olhando para Frente
+15:36:45 16/02/2025,Silence,0.08203125,Ambiente Silencioso,Safari,instagram.com,Olhando para Frente
+15:36:51 16/02/2025,Silence,0.109375,Ambiente Silencioso,Safari,facebook.com,Olhando para Frente
+15:36:56 16/02/2025,Speech,0.08203125,Fala e Vozes,Safari,facebook.com,Olhando para Frente
+15:37:01 16/02/2025,Animal,0.109375,Natureza e Ambiente,Safari,facebook.com,Olhando para Frente
+15:37:06 16/02/2025,Silence,0.08203125,Ambiente Silencioso,Safari,facebook.com,Olhando para Frente
+15:37:11 16/02/2025,Silence,0.109375,Ambiente Silencioso,Safari,facebook.com,Olhando para Frente
+15:37:16 16/02/2025,Speech,0.08203125,Fala e Vozes,Safari,x.com,Olhando para Frente
+15:37:21 16/02/2025,Animal,0.08203125,Natureza e Ambiente,Safari,x.com,Olhando para Frente
+15:37:26 16/02/2025,Silence,0.109375,Ambiente Silencioso,Safari,x.com,Olhando para Frente
+15:37:31 16/02/2025,Speech,0.08203125,Fala e Vozes,Safari,x.com,Olhando para Frente
+15:37:36 16/02/2025,Speech,0.08203125,Fala e Vozes,Safari,x.com,Olhando para Frente
+15:37:41 16/02/2025,Silence,0.08203125,Ambiente Silencioso,Safari,x.com,Olhando para Frente

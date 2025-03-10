@@ -1,0 +1,58 @@
+Timestamp,AudioClass,AudioScore,AudioGroup,ActiveWindow,URL,HeadPose
+13:19:15 16/02/2025,Mechanical fan,0.05859375,Ruídos Mecânicos e Veiculares,Safari,localhost:8501,Olhando para Frente
+13:19:20 16/02/2025,Mechanical fan,0.109375,Ruídos Mecânicos e Veiculares,Visual Studio Code,,Olhando para Frente
+13:19:25 16/02/2025,Mechanical fan,0.66796875,Ruídos Mecânicos e Veiculares,Visual Studio Code,,Olhando para Frente
+13:19:30 16/02/2025,Mechanical fan,0.33203125,Ruídos Mecânicos e Veiculares,Visual Studio Code,,Olhando para Frente
+13:19:35 16/02/2025,Mechanical fan,0.5859375,Ruídos Mecânicos e Veiculares,Safari,localhost:8501,Olhando para Frente
+13:19:40 16/02/2025,Mechanical fan,0.984375,Ruídos Mecânicos e Veiculares,Safari,localhost:8501,Olhando para Frente
+13:19:45 16/02/2025,Mechanical fan,0.96875,Ruídos Mecânicos e Veiculares,Safari,localhost:8501,Olhando para Frente
+13:19:50 16/02/2025,Wind,0.1484375,Ruídos de Fundo Neutros,Safari,localhost:8501,Olhando para Frente
+13:19:55 16/02/2025,Speech,0.33203125,Fala e Vozes,Safari,localhost:8501,Olhando para Frente
+13:20:01 16/02/2025,Speech,0.08203125,Fala e Vozes,Visual Studio Code,,Olhando para Frente
+13:20:06 16/02/2025,Music,0.5859375,Música,Visual Studio Code,,Olhando para Frente
+13:20:11 16/02/2025,Speech,0.109375,Fala e Vozes,Safari,localhost:8501,Olhando para Frente
+13:20:16 16/02/2025,Speech,0.5,Fala e Vozes,Safari,localhost:8501,Olhando para Frente
+13:20:21 16/02/2025,Speech,0.26171875,Fala e Vozes,Safari,localhost:8501,Olhando para Frente
+13:20:26 16/02/2025,Speech,0.1484375,Fala e Vozes,Visual Studio Code,,Olhando para Frente
+13:20:31 16/02/2025,Speech,0.4140625,Fala e Vozes,Visual Studio Code,,Olhando para Frente
+13:20:36 16/02/2025,Speech,0.109375,Fala e Vozes,Safari,localhost:8501,Olhando para Frente
+13:20:41 16/02/2025,Speech,0.5,Fala e Vozes,Safari,localhost:8501,Olhando para Frente
+13:20:46 16/02/2025,"Inside, small room",0.08203125,Ruídos de Fundo Neutros,Safari,localhost:8501,Olhando para Frente
+13:20:51 16/02/2025,"Dishes, pots, and pans",0.4140625,Ruídos de Fundo Neutros,Safari,localhost:8501,Olhando para Frente
+13:20:56 16/02/2025,Speech,0.80078125,Fala e Vozes,Safari,localhost:8501,Olhando para Frente
+13:21:01 16/02/2025,Speech,0.4140625,Fala e Vozes,Safari,localhost:8501,Olhando para Frente
+13:21:06 16/02/2025,Speech,0.1484375,Fala e Vozes,Safari,localhost:8501,Olhando para Frente
+13:21:11 16/02/2025,Speech,0.109375,Fala e Vozes,Safari,localhost:8501,Olhando para Frente
+13:21:16 16/02/2025,Speech,0.33203125,Fala e Vozes,Safari,localhost:8501,Olhando para Frente
+13:21:21 16/02/2025,Speech,0.33203125,Fala e Vozes,Safari,localhost:8501,Olhando para Frente
+13:21:27 16/02/2025,Speech,0.1484375,Fala e Vozes,Safari,localhost:8501,Olhando para Frente
+13:21:32 16/02/2025,Speech,0.80078125,Fala e Vozes,Visual Studio Code,,Olhando para Frente
+13:21:37 16/02/2025,Rail transport,0.05859375,Não Classificado,Visual Studio Code,,Olhando para Frente
+13:21:42 16/02/2025,Speech,0.08203125,Fala e Vozes,Visual Studio Code,,Olhando para Frente
+13:21:47 16/02/2025,Bathtub (filling or washing),0.5,Ruídos Intrusivos,Visual Studio Code,,Olhando para Frente
+13:21:52 16/02/2025,Speech,0.5859375,Fala e Vozes,Visual Studio Code,,Olhando para Frente
+13:21:57 16/02/2025,Speech,0.109375,Fala e Vozes,Visual Studio Code,,Olhando para Frente
+13:22:02 16/02/2025,Music,0.05859375,Música,Visual Studio Code,,Olhando para Frente
+13:22:07 16/02/2025,Speech,0.8515625,Fala e Vozes,Visual Studio Code,,Olhando para Frente
+13:22:12 16/02/2025,Speech,0.4140625,Fala e Vozes,Visual Studio Code,,Olhando para Frente
+13:22:17 16/02/2025,Speech,0.5859375,Fala e Vozes,Visual Studio Code,,Olhando para Frente
+13:22:22 16/02/2025,Speech,0.73828125,Fala e Vozes,Visual Studio Code,,Olhando para Frente
+13:22:27 16/02/2025,Speech,0.08203125,Fala e Vozes,Visual Studio Code,,Olhando para Frente
+13:22:32 16/02/2025,Percussion,0.109375,Música,Visual Studio Code,,Olhando para Frente
+13:22:37 16/02/2025,Speech,0.66796875,Fala e Vozes,Visual Studio Code,,Olhando para Frente
+13:22:42 16/02/2025,Music,0.19921875,Música,Visual Studio Code,,Olhando para Frente
+13:22:47 16/02/2025,Bathtub (filling or washing),0.5,Ruídos Intrusivos,Visual Studio Code,,Olhando para Frente
+13:22:52 16/02/2025,Music,0.890625,Música,Visual Studio Code,,Olhando para Frente
+13:22:57 16/02/2025,Music,0.66796875,Música,Visual Studio Code,,Olhando para Frente
+13:23:02 16/02/2025,Music,0.33203125,Música,Visual Studio Code,,Olhando para Frente
+13:23:07 16/02/2025,Bathtub (filling or washing),0.109375,Ruídos Intrusivos,Safari,localhost:8501,Olhando para Frente
+13:23:12 16/02/2025,Music,0.26171875,Música,Visual Studio Code,,Olhando para Frente
+13:23:17 16/02/2025,Music,0.80078125,Música,Visual Studio Code,,Olhando para Frente
+13:23:22 16/02/2025,Music,0.73828125,Música,Visual Studio Code,,Olhando para Frente
+13:23:27 16/02/2025,Music,0.5,Música,Visual Studio Code,,Olhando para Frente
+13:23:32 16/02/2025,Music,0.109375,Música,Visual Studio Code,,Olhando para Frente
+13:23:37 16/02/2025,Music,0.8515625,Música,Visual Studio Code,,Olhando para Frente
+13:23:42 16/02/2025,Music,0.95703125,Música,Safari,localhost:8501,Olhando para Frente
+13:23:47 16/02/2025,Speech,0.1484375,Fala e Vozes,Visual Studio Code,,Olhando para Frente
+13:23:52 16/02/2025,Speech,0.73828125,Fala e Vozes,Visual Studio Code,,Olhando para Frente
+13:23:58 16/02/2025,Speech,0.19921875,Fala e Vozes,Safari,localhost:8501,Olhando para Frente

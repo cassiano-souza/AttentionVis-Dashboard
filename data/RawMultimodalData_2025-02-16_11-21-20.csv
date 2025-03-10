@@ -1,0 +1,60 @@
+Timestamp,AudioClass,AudioScore,AudioGroup,ActiveWindow,URL,HeadPose
+11:21:31 16/02/2025,"Inside, small room",0.19921875,Ruídos de Fundo Neutros,Visual Studio Code,,Olhando para Frente
+11:21:36 16/02/2025,Animal,0.33203125,Natureza e Ambiente,Visual Studio Code,,Olhando para Frente
+11:21:41 16/02/2025,Silence,0.19921875,Ambiente Silencioso,Visual Studio Code,,Olhando para Frente
+11:21:46 16/02/2025,Animal,0.19921875,Natureza e Ambiente,Visual Studio Code,,Olhando para Frente
+11:21:51 16/02/2025,Animal,0.33203125,Natureza e Ambiente,Visual Studio Code,,Olhando para Frente
+11:21:57 16/02/2025,Animal,0.08203125,Natureza e Ambiente,Safari,localhost:8501,Olhando para Frente
+11:22:02 16/02/2025,Animal,0.1484375,Natureza e Ambiente,GitHub Desktop,,Olhando para Frente
+11:22:07 16/02/2025,Animal,0.1484375,Natureza e Ambiente,Visual Studio Code,,Olhando para Frente
+11:22:12 16/02/2025,"Domestic animals, pets",0.26171875,Não Classificado,GitHub Desktop,,Olhando para Frente
+11:22:17 16/02/2025,Typing,0.4140625,Ruídos de Fundo Neutros,Safari,localhost:8501,Olhando para Frente
+11:22:22 16/02/2025,"Inside, small room",0.19921875,Ruídos de Fundo Neutros,Safari,localhost:8501,Olhando para Frente
+11:22:27 16/02/2025,"Inside, small room",0.1484375,Ruídos de Fundo Neutros,GitHub Desktop,,Olhando para Frente
+11:22:32 16/02/2025,Silence,0.26171875,Ambiente Silencioso,Visual Studio Code,,Olhando para Frente
+11:22:37 16/02/2025,Silence,0.109375,Ambiente Silencioso,Visual Studio Code,,Olhando para Frente
+11:22:42 16/02/2025,White noise,0.109375,Ambiente Silencioso,Visual Studio Code,,Olhando para Baixo
+11:22:47 16/02/2025,Silence,0.05859375,Ambiente Silencioso,Visual Studio Code,,Olhando para Frente
+11:22:52 16/02/2025,Sliding door,0.04296875,Não Classificado,Visual Studio Code,,Olhando para Baixo
+11:22:57 16/02/2025,Tuning fork,0.05859375,Não Classificado,Visual Studio Code,,Olhando para Frente
+11:23:03 16/02/2025,Rumble,0.08203125,Natureza e Ambiente,GitHub Desktop,,Olhando para Frente
+11:23:08 16/02/2025,Vehicle,0.109375,Ruídos Mecânicos e Veiculares,Safari,localhost:8501,Olhando para Frente
+11:23:13 16/02/2025,Rumble,0.33203125,Natureza e Ambiente,Safari,localhost:8501,Olhando para Frente
+11:23:18 16/02/2025,Chant,0.109375,Fala e Vozes,Safari,localhost:8501,Olhando para Frente
+11:23:23 16/02/2025,Silence,0.1484375,Ambiente Silencioso,Visual Studio Code,,Olhando para Frente
+11:23:28 16/02/2025,Silence,0.1484375,Ambiente Silencioso,GitHub Desktop,,Olhando para Frente
+11:23:33 16/02/2025,Animal,0.1484375,Natureza e Ambiente,GitHub Desktop,,Olhando para Frente
+11:23:38 16/02/2025,Speech,0.08203125,Fala e Vozes,GitHub Desktop,,Olhando para Frente
+11:23:43 16/02/2025,White noise,0.19921875,Ambiente Silencioso,GitHub Desktop,,Olhando para Frente
+11:23:48 16/02/2025,Arrow,0.05859375,Não Classificado,GitHub Desktop,,Olhando para Frente
+11:23:53 16/02/2025,Speech,0.109375,Fala e Vozes,GitHub Desktop,,Olhando para Frente
+11:23:58 16/02/2025,Animal,0.26171875,Natureza e Ambiente,Safari,localhost:8501,Olhando para Frente
+11:24:03 16/02/2025,Animal,0.19921875,Natureza e Ambiente,Visual Studio Code,,Olhando para Frente
+11:24:08 16/02/2025,Speech,0.109375,Fala e Vozes,Visual Studio Code,,Olhando para Frente
+11:24:13 16/02/2025,Animal,0.26171875,Natureza e Ambiente,Safari,localhost:8501,Olhando para Frente
+11:24:18 16/02/2025,Animal,0.1484375,Natureza e Ambiente,GitHub Desktop,,Olhando para Frente
+11:24:23 16/02/2025,"Inside, small room",0.1484375,Ruídos de Fundo Neutros,Safari,localhost:8501,Olhando para Frente
+11:24:28 16/02/2025,Animal,0.109375,Natureza e Ambiente,Safari,youtube.com,Olhando para Frente
+11:24:33 16/02/2025,Animal,0.26171875,Natureza e Ambiente,Safari,youtube.com,Olhando para Frente
+11:24:38 16/02/2025,Animal,0.109375,Natureza e Ambiente,Safari,youtube.com,Olhando para Frente
+11:24:43 16/02/2025,Music,0.80078125,Música,Safari,youtube.com,Olhando para Frente
+11:24:49 16/02/2025,Music,0.73828125,Música,Safari,youtube.com,Olhando para Frente
+11:24:54 16/02/2025,Music,0.8515625,Música,Safari,youtube.com,Olhando para Frente
+11:24:59 16/02/2025,Music,0.66796875,Música,Safari,youtube.com,Olhando para Frente
+11:25:04 16/02/2025,Music,0.98046875,Música,Safari,youtube.com,Olhando para Frente
+11:25:09 16/02/2025,Music,0.73828125,Música,Safari,youtube.com,Olhando para Frente
+11:25:14 16/02/2025,Silence,0.1484375,Ambiente Silencioso,Safari,youtube.com,Olhando para Frente
+11:25:19 16/02/2025,Music,0.890625,Música,Safari,youtube.com,Olhando para Frente
+11:25:24 16/02/2025,Speech,0.26171875,Fala e Vozes,Safari,youtube.com,Olhando para Frente
+11:25:29 16/02/2025,Music,0.8515625,Música,Safari,youtube.com,Olhando para Frente
+11:25:34 16/02/2025,Music,0.890625,Música,Safari,youtube.com,Olhando para Frente
+11:25:39 16/02/2025,Speech,0.33203125,Fala e Vozes,Safari,youtube.com,Olhando para Frente
+11:25:44 16/02/2025,Music,0.95703125,Música,Safari,youtube.com,Olhando para Frente
+11:25:49 16/02/2025,Silence,0.109375,Ambiente Silencioso,Safari,youtube.com,Olhando para Frente
+11:25:54 16/02/2025,Silence,0.19921875,Ambiente Silencioso,Safari,youtube.com,Olhando para Frente
+11:25:59 16/02/2025,Music,0.890625,Música,Safari,youtube.com,Olhando para Frente
+11:26:04 16/02/2025,Music,0.5859375,Música,Safari,youtube.com,Olhando para Frente
+11:26:10 16/02/2025,Music,0.9921875,Música,Safari,youtube.com,Olhando para Frente
+11:26:15 16/02/2025,Music,0.33203125,Música,Safari,youtube.com,Olhando para Frente
+11:26:20 16/02/2025,Music,0.96875,Música,Safari,youtube.com,Olhando para Frente
+11:26:25 16/02/2025,Music,0.80078125,Música,Safari,localhost:8501,Olhando para Frente

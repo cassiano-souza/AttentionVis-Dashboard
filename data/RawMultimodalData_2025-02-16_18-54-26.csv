@@ -1,0 +1,57 @@
+Timestamp,AudioClass,AudioScore,AudioGroup,ActiveWindow,URL,HeadPose
+18:54:43 16/02/2025,"Inside, small room",0.19921875,Ruídos de Fundo Neutros,Visual Studio Code,,Olhando para Frente
+18:54:48 16/02/2025,Animal,0.109375,Natureza e Ambiente,Visual Studio Code,,Olhando para Frente
+18:54:53 16/02/2025,Cat,0.26171875,Não Classificado,Visual Studio Code,,Olhando para Frente
+18:54:58 16/02/2025,"Inside, small room",0.109375,Ruídos de Fundo Neutros,Visual Studio Code,,Olhando para Frente
+18:55:03 16/02/2025,"Inside, small room",0.19921875,Ruídos de Fundo Neutros,Visual Studio Code,,Olhando para Frente
+18:55:08 16/02/2025,Music,0.4140625,Música,Visual Studio Code,,Olhando para Frente
+18:55:13 16/02/2025,Music,0.73828125,Música,Visual Studio Code,,Olhando para Frente
+18:55:18 16/02/2025,Music,0.19921875,Música,Visual Studio Code,,Olhando para Frente
+18:55:23 16/02/2025,Speech,0.1484375,Fala e Vozes,Visual Studio Code,,Olhando para Frente
+18:55:28 16/02/2025,Music,0.73828125,Música,Visual Studio Code,,Olhando para Frente
+18:55:33 16/02/2025,Music,0.26171875,Música,Visual Studio Code,,Olhando para Frente
+18:55:39 16/02/2025,Music,0.80078125,Música,Visual Studio Code,,Olhando para Frente
+18:55:44 16/02/2025,Music,0.66796875,Música,Visual Studio Code,,Olhando para Frente
+18:55:49 16/02/2025,Music,0.890625,Música,Visual Studio Code,,Olhando para Frente
+18:55:54 16/02/2025,Music,0.80078125,Música,Microsoft Word,,Olhando para Frente
+18:55:59 16/02/2025,Music,0.73828125,Música,Microsoft Word,,Olhando para Frente
+18:56:04 16/02/2025,Music,0.5,Música,Microsoft Word,,Olhando para Frente
+18:56:09 16/02/2025,Music,0.890625,Música,Microsoft Word,,Olhando para Frente
+18:56:14 16/02/2025,Music,0.890625,Música,Microsoft Word,,Olhando para Frente
+18:56:19 16/02/2025,Music,0.94140625,Música,Microsoft Word,,Olhando para Frente
+18:56:24 16/02/2025,Music,0.8515625,Música,Microsoft Word,,Olhando para Frente
+18:56:29 16/02/2025,Music,0.5859375,Música,Microsoft Word,,Olhando para Frente
+18:56:34 16/02/2025,Music,0.890625,Música,Safari,localhost:8501,Olhando para Frente
+18:56:39 16/02/2025,Music,0.80078125,Música,Safari,instagram.com,Olhando para Frente
+18:56:44 16/02/2025,Music,0.73828125,Música,Safari,instagram.com,Olhando para Frente
+18:56:49 16/02/2025,Music,0.8515625,Música,Safari,instagram.com,Olhando para Frente
+18:56:54 16/02/2025,Music,0.8515625,Música,Safari,instagram.com,Olhando para Frente
+18:56:59 16/02/2025,Music,0.73828125,Música,Safari,instagram.com,Olhando para Frente
+18:57:04 16/02/2025,Music,0.91796875,Música,Safari,instagram.com,Olhando para Frente
+18:57:09 16/02/2025,Music,0.66796875,Música,Pré-Visualização,,Olhando para Frente
+18:57:14 16/02/2025,"Dishes, pots, and pans",0.890625,Ruídos Intrusivos,Pré-Visualização,,Olhando para Frente
+18:57:19 16/02/2025,"Dishes, pots, and pans",0.8515625,Ruídos Intrusivos,Pré-Visualização,,Olhando para Frente
+18:57:24 16/02/2025,"Dishes, pots, and pans",0.95703125,Ruídos Intrusivos,Pré-Visualização,,Olhando para Frente
+18:57:29 16/02/2025,"Dishes, pots, and pans",0.95703125,Ruídos Intrusivos,Pré-Visualização,,Olhando para Frente
+18:57:34 16/02/2025,Music,0.66796875,Música,Pré-Visualização,,Olhando para a Esquerda
+18:57:40 16/02/2025,Music,0.80078125,Música,Pré-Visualização,,Olhando para Frente
+18:57:45 16/02/2025,Music,0.890625,Música,Pré-Visualização,,Olhando para a Direita
+18:57:50 16/02/2025,Music,0.5,Música,Pré-Visualização,,Olhando para a Direita
+18:57:55 16/02/2025,Speech,0.08203125,Fala e Vozes,Pré-Visualização,,Olhando para a Direita
+18:58:00 16/02/2025,Music,0.8515625,Música,Pré-Visualização,,Olhando para a Direita
+18:58:05 16/02/2025,Music,0.890625,Música,Pré-Visualização,,Olhando para Frente
+18:58:10 16/02/2025,Music,0.8515625,Música,Pré-Visualização,,Olhando para Frente
+18:58:15 16/02/2025,Music,0.9921875,Música,Pré-Visualização,,Olhando para Frente
+18:58:20 16/02/2025,Music,0.96875,Música,Pré-Visualização,,Olhando para Frente
+18:58:25 16/02/2025,Music,0.95703125,Música,Pré-Visualização,,Olhando para Frente
+18:58:30 16/02/2025,Music,0.890625,Música,Pré-Visualização,,Olhando para Frente
+18:58:35 16/02/2025,Music,0.8515625,Música,Pré-Visualização,,Olhando para Frente
+18:58:40 16/02/2025,Music,0.890625,Música,Pré-Visualização,,Olhando para Frente
+18:58:45 16/02/2025,Music,0.8515625,Música,Pré-Visualização,,Olhando para Frente
+18:58:50 16/02/2025,Music,0.91796875,Música,Pré-Visualização,,Olhando para Frente
+18:58:55 16/02/2025,Music,0.890625,Música,Pré-Visualização,,Olhando para Frente
+18:59:00 16/02/2025,Music,0.73828125,Música,Pré-Visualização,,Olhando para Frente
+18:59:05 16/02/2025,Music,0.8515625,Música,Pré-Visualização,,Olhando para Frente
+18:59:10 16/02/2025,Music,0.8515625,Música,Pré-Visualização,,Olhando para Frente
+18:59:15 16/02/2025,Music,0.66796875,Música,Pré-Visualização,,Olhando para Frente
+

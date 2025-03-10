@@ -1,0 +1,61 @@
+Timestamp,AudioClass,AudioScore,AudioGroup,ActiveWindow,URL,HeadPose
+19:44:29 16/02/2025,White noise,0.19921875,Ambiente Silencioso,Microsoft Excel,,Olhando para Frente
+19:44:34 16/02/2025,Mechanical fan,0.5,Ruídos Mecânicos e Veiculares,Microsoft Excel,,Olhando para Frente
+19:44:39 16/02/2025,Mechanical fan,0.19921875,Ruídos Mecânicos e Veiculares,Microsoft Excel,,Olhando para Frente
+19:44:44 16/02/2025,Mechanical fan,0.3859375,Ruídos Mecânicos e Veiculares,Microsoft Excel,,Olhando para Frente
+19:44:49 16/02/2025,White noise,0.33203125,Ambiente Silencioso,Microsoft Excel,,Olhando para Frente
+19:44:54 16/02/2025,White noise,0.33203125,Ambiente Silencioso,Microsoft Excel,,Olhando para Frente
+19:44:59 16/02/2025,White noise,0.19921875,Ambiente Silencioso,Microsoft Excel,,Olhando para Frente
+19:45:04 16/02/2025,Wind,0.4140625,Ruídos de Fundo Neutros,Microsoft Excel,,Olhando para Frente
+19:45:09 16/02/2025,White noise,0.19921875,Ambiente Silencioso,Microsoft Excel,,Olhando para Frente
+19:45:14 16/02/2025,Wind,0.33203125,Ruídos de Fundo Neutros,Microsoft Excel,,Olhando para Frente
+19:45:19 16/02/2025,White noise,0.26171875,Ambiente Silencioso,Microsoft Excel,,Olhando para Frente
+19:45:24 16/02/2025,Wind,0.19921875,Ruídos de Fundo Neutros,Microsoft Excel,,Olhando para Frente
+19:45:29 16/02/2025,Mechanical fan,0.26171875,Ruídos Mecânicos e Veiculares,Microsoft Excel,,Olhando para Frente
+19:45:34 16/02/2025,White noise,0.19921875,Ambiente Silencioso,Microsoft Excel,,Olhando para Frente
+19:45:39 16/02/2025,Music,0.5,Música,Microsoft Excel,,Olhando para Frente
+19:45:44 16/02/2025,Music,0.33203125,Música,Microsoft Excel,,Olhando para Frente
+19:45:49 16/02/2025,Music,0.26171875,Música,Microsoft Excel,,Olhando para Frente
+19:45:54 16/02/2025,Mechanical fan,0.66796875,Ruídos Mecânicos e Veiculares,Microsoft Excel,,Olhando para Frente
+19:45:59 16/02/2025,Wind,0.05859375,Ruídos de Fundo Neutros,Microsoft Excel,,Olhando para Frente
+19:46:04 16/02/2025,White noise,0.19921875,Ambiente Silencioso,Microsoft Excel,,Olhando para a Esquerda
+19:46:09 16/02/2025,Wind,0.33203125,Ruídos de Fundo Neutros,Microsoft Excel,,Olhando para a Esquerda
+19:46:14 16/02/2025,White noise,0.109375,Ambiente Silencioso,Microsoft Excel,,Olhando para a Esquerda
+19:46:19 16/02/2025,Wind,0.109375,Ruídos de Fundo Neutros,Microsoft Excel,,Olhando para a Esquerda
+19:46:24 16/02/2025,White noise,0.109375,Ambiente Silencioso,Microsoft Excel,,Olhando para a Esquerda
+19:46:29 16/02/2025,Wind,0.1484375,Ruídos de Fundo Neutros,Microsoft Excel,,Olhando para a Esquerda
+19:46:35 16/02/2025,Vehicle,0.1484375,Ruídos Mecânicos e Veiculares,Microsoft Excel,,Olhando para a Esquerda
+19:46:40 16/02/2025,White noise,0.19921875,Ambiente Silencioso,Microsoft Excel,,Olhando para a Esquerda
+19:46:45 16/02/2025,Wind,0.33203125,Ruídos de Fundo Neutros,Microsoft Excel,,Olhando para Frente
+19:46:50 16/02/2025,White noise,0.66796875,Ambiente Silencioso,Microsoft Excel,,Olhando para a Esquerda
+19:46:55 16/02/2025,Vehicle,0.109375,Ruídos Mecânicos e Veiculares,Microsoft Excel,,Olhando para a Esquerda
+19:47:00 16/02/2025,White noise,0.5,Ambiente Silencioso,Microsoft Excel,,Olhando para a Esquerda
+19:47:05 16/02/2025,Hammer,0.5,Ruídos Mecânicos e Veiculares,Microsoft Excel,,Olhando para Frente
+19:47:10 16/02/2025,Hammer,0.33203125,Ruídos Mecânicos e Veiculares,Microsoft Excel,,Olhando para Frente
+19:47:15 16/02/2025,Percussion,0.26171875,Música,Microsoft Excel,,Olhando para Frente
+19:47:20 16/02/2025,Music,0.26171875,Música,Microsoft Excel,,Olhando para a Esquerda
+19:47:25 16/02/2025,Tools,0.33203125,Não Classificado,Microsoft Excel,,Olhando para a Esquerda
+19:47:30 16/02/2025,"Vehicle horn, car horn, honking",0.33203125,Não Classificado,Microsoft Excel,,Olhando para Frente
+19:47:35 16/02/2025,Wind,0.1484375,Ruídos de Fundo Neutros,Microsoft Excel,,Olhando para Direita
+19:47:40 16/02/2025,Wind,0.109375,Ruídos de Fundo Neutros,Microsoft Excel,,Olhando para Frente
+19:47:45 16/02/2025,"Outside, urban or manmade",0.109375,Não Classificado,Microsoft Excel,,Olhando para Frente
+19:47:50 16/02/2025,Speech,0.08203125,Fala e Vozes,Microsoft Excel,,Olhando para Frente
+19:47:55 16/02/2025,Mechanical fan,0.1484375,Ruídos Mecânicos e Veiculares,Microsoft Excel,,Olhando para Frente
+19:48:00 16/02/2025,Mechanical fan,0.33203125,Ruídos Mecânicos e Veiculares,Microsoft Excel,,Olhando para Frente
+19:48:05 16/02/2025,Mechanical fan,0.08203125,Ruídos Mecânicos e Veiculares,GitHub Desktop,,Olhando para a Esquerda
+19:48:10 16/02/2025,Wind,0.4140625,Ruídos de Fundo Neutros,GitHub Desktop,,Olhando para a Esquerda
+19:48:15 16/02/2025,Mechanical fan,0.26171875,Ruídos Mecânicos e Veiculares,GitHub Desktop,,Olhando para a Esquerda
+19:48:20 16/02/2025,Wind,0.19921875,Ruídos de Fundo Neutros,GitHub Desktop,,Olhando para a Esquerda
+19:48:25 16/02/2025,Speech,0.08203125,Fala e Vozes,GitHub Desktop,,Olhando para a Esquerda
+19:48:30 16/02/2025,Wind,0.19921875,Ruídos de Fundo Neutros,GitHub Desktop,,Olhando para a Esquerda
+19:48:35 16/02/2025,Speech,0.26171875,Fala e Vozes,GitHub Desktop,,Olhando para Frente
+19:48:40 16/02/2025,Speech,0.26171875,Fala e Vozes,GitHub Desktop,,Olhando para Frente
+19:48:45 16/02/2025,Wind,0.5,Ruídos de Fundo Neutros,GitHub Desktop,,Olhando para Frente
+19:48:50 16/02/2025,Rustle,0.19921875,Ruídos de Fundo Neutros,GitHub Desktop,,Olhando para Frente
+19:48:55 16/02/2025,Wind,0.26171875,Ruídos de Fundo Neutros,GitHub Desktop,,Olhando para Frente
+19:49:00 16/02/2025,Speech,0.8515625,Fala e Vozes,GitHub Desktop,,Olhando para Frente
+19:49:05 16/02/2025,Speech,0.66796875,Fala e Vozes,GitHub Desktop,,Olhando para Frente
+19:49:11 16/02/2025,Wind,0.109375,Ruídos de Fundo Neutros,GitHub Desktop,,Olhando para Frente
+19:49:16 16/02/2025,Wind,0.4140625,Ruídos de Fundo Neutros,GitHub Desktop,,Olhando para Frente
+19:49:21 16/02/2025,Wind,0.33203125,Ruídos de Fundo Neutros,GitHub Desktop,,Olhando para Frente
+19:49:26 16/02/2025,Mechanical fan,0.1484375,Ruídos Mecânicos e Veiculares,GitHub Desktop,,Olhando para a Direita

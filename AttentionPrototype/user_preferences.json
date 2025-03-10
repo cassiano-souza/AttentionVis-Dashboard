@@ -1,0 +1,22 @@
+{
+    "Monitores": {
+        "Monitor 1": "Frente"
+    },
+    "Foco": [
+        "Visual Studio Code",
+        "ChatGPT",
+        "GitHub Desktop",
+        "Microsoft Word",
+        "Pr\u00e9-Visualiza\u00e7\u00e3o",
+        "zoom.us"
+    ],
+    "Contexto": {
+        "UsandoFones": false,
+        "PreferenciaMusica": "Me distrai"
+    },
+    "FocoURLs": [
+        "localhost:8501",
+        "translate.google.com.br",
+        "google.com"
+    ]
+}
