@@ -369,7 +369,8 @@ def plot_most_used_software(software_usage_time):
     fig.update_traces(
         texttemplate='%{y:2f} min',  # tempo com 1 casa decimal
         textposition='outside',
-        marker=dict(line=dict(width=0))  # Remove bordas das barras
+        marker=dict(line=dict(width=0)),  # Remove bordas das barras
+        hovertemplate='%{x}: %{y} min<extra></extra>'
     )
 
     fig.update_layout(
