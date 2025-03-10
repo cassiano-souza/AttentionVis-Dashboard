@@ -9,6 +9,7 @@ import signal
 import time
 import plotly.graph_objects as go
 import plotly.express as px
+import pandas as pd
 
 
 
@@ -123,25 +124,38 @@ def configure_preferences():
 # 2. Página para Iniciar a Coleta de Dados
 def start_data_collection():
     st.title("Iniciar/Parar Coleta de Dados")
-    st.write("Clique nos botões abaixo para iniciar ou parar o processo de coleta de dados.")
+    #st.write("Clique nos botões abaixo para iniciar ou parar o processo de coleta de dados.")
+    st.write("Clique no botão abaixo para visualizar os dados de exemplo.")
 
     col1, col2 = st.columns(2)
 
     # Botão para Iniciar Coleta
     with col1:
         if st.button("Iniciar Coleta"):
-            if os.path.exists(PID_FILE):
-                st.warning("A coleta de dados já está em execução.")
-            else:
-                try:
-                    # Inicia o subprocesso e salva o PID
-                    process = subprocess.Popen(["python", "main.py"], cwd=os.getcwd())
-                    with open(PID_FILE, "w") as f:
-                        f.write(str(process.pid))
-                    #st.success("Coleta de dados iniciada com sucesso.")
-                    st.success("Este é um exemplo demonstrativo. A coleta de dados real não está ocorrendo.")
-                except Exception as e:
-                    st.error(f"Erro ao iniciar a coleta: {e}")
+            csv_path = get_latest_csv()  # Obtém o arquivo CSV mais recente
+
+        if csv_path:
+            st.success("Exemplo de dados carregado com sucesso!")
+
+            try:
+                # Carregar os dados do CSV
+                data = pd.read_csv(csv_path)
+
+                # Verifica se há dados no CSV antes de exibir
+                if data.empty:
+                    st.warning("O arquivo CSV está vazio. Nenhum dado disponível.")
+                else:
+                    # Exibir uma mensagem informando que os dados são um exemplo
+                    st.warning("Esses dados são um exemplo e não estão sendo coletados em tempo real.")
+
+                    # Exibir o DataFrame inteiro com rolagem automática
+                    st.dataframe(data) 
+            
+            except Exception as e:
+                st.error(f"Erro ao carregar os dados: {e}")
+        
+        else:
+            st.error("Nenhum arquivo de dados encontrado.")
 
     # Botão para Parar Coleta
     with col2:
