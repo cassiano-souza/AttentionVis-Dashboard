@@ -425,6 +425,21 @@ def process_attention_data():
     try:
         print(f"Carregando dados de {csv_path}...")  # Log para depuração
         data = pd.read_csv(csv_path)
+
+        # DEPURAÇÃO: Exibir as primeiras linhas do CSV carregado
+        print("\n📊 Primeiras 5 linhas do CSV carregado:")
+        print(data.head())
+
+        # DEPURAÇÃO: Mostrar as colunas disponíveis
+        print("\n📝 Colunas disponíveis no DataFrame:")
+        print(data.columns)
+
+        # DEPURAÇÃO: Contar registros e verificar colunas nulas
+        print("\n📈 Quantidade de registros carregados:", len(data))
+        print("\n🔍 Colunas com valores nulos:")
+        print(data.isnull().sum())
+
+
         data["Timestamp"] = pd.to_datetime(data["Timestamp"], format="%H:%M:%S %d/%m/%Y")
         data["URL"] = data["URL"].fillna("Nenhuma URL") # Substituir valores vazios por um identificador padrão
 

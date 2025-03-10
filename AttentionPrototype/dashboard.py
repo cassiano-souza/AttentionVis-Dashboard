@@ -226,6 +226,17 @@ def analyze_data():
                 "Neutro": "#B3B3B3"  # Cinza neutro
             }
 
+            # DEPURAÇÃO: Verificar os dados antes de gerar o gráfico
+            print("\n⏳ Timestamps disponíveis:")
+            print(timestamps)
+
+            print("\n📉 Níveis de Atenção carregados:")
+            print(attention_levels)
+
+            # Se algum estiver vazio, imprimir um aviso
+            if timestamps.empty or attention_levels.empty:
+                print("🚨 ERRO: Os dados para o gráfico estão vazios!")
+
             # Criar gráfico interativo com Plotly
             fig = go.Figure()
 
