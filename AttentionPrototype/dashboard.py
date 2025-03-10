@@ -138,7 +138,8 @@ def start_data_collection():
                     process = subprocess.Popen(["python", "main.py"], cwd=os.getcwd())
                     with open(PID_FILE, "w") as f:
                         f.write(str(process.pid))
-                    st.success("Coleta de dados iniciada com sucesso.")
+                    #st.success("Coleta de dados iniciada com sucesso.")
+                    st.success("Este é um exemplo demonstrativo. A coleta de dados real não está ocorrendo.")
                 except Exception as e:
                     st.error(f"Erro ao iniciar a coleta: {e}")
 
@@ -226,16 +227,6 @@ def analyze_data():
                 "Neutro": "#B3B3B3"  # Cinza neutro
             }
 
-            # DEPURAÇÃO: Verificar os dados antes de gerar o gráfico
-            print("\n⏳ Timestamps disponíveis:")
-            print(timestamps)
-
-            print("\n📉 Níveis de Atenção carregados:")
-            print(attention_levels)
-
-            # Se algum estiver vazio, imprimir um aviso
-            if timestamps.empty or attention_levels.empty:
-                print("🚨 ERRO: Os dados para o gráfico estão vazios!")
 
             # Criar gráfico interativo com Plotly
             fig = go.Figure()
