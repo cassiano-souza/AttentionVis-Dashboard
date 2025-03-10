@@ -363,13 +363,16 @@ def plot_most_used_software(software_usage_time):
         color=top_software.index,
         #color_discrete_sequence=px.colors.qualitative.Set2  # Paleta de cores Set2
         color_discrete_sequence=custom_colors_bar, 
+        hover_data={"color": False}  # REMOVE "color=Microsoft Excel" DO TOOLTIP
     )
+
 
     # Melhorar rótulos e layout
     fig.update_traces(
         texttemplate='%{y:2f} min',  # tempo com 1 casa decimal
         textposition='outside',
-        marker=dict(line=dict(width=0))  # Remove bordas das barras
+        marker=dict(line=dict(width=0)),  # Remove bordas das barras
+        hovertemplate="%{x}: %{y} min<extra></extra>"
     )
 
     fig.update_layout(
