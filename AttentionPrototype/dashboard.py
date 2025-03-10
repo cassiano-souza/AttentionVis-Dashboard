@@ -179,7 +179,7 @@ def start_data_collection():
     else:
         # Verifica se já mostramos esse erro antes para evitar repetição
         if "csv_error_shown" not in st.session_state or not st.session_state.csv_error_shown:
-            st.warning("Nenhum arquivo de dados disponível no momento.")
+            #st.warning("Nenhum arquivo de dados disponível no momento.")
             st.session_state.csv_error_shown = True  # Marca que a mensagem já foi mostrada
 
 # 3. Página de Análise dos Dados
