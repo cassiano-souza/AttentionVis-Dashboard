@@ -150,7 +150,7 @@ def start_data_collection():
                     st.warning("Esses dados são um exemplo e não estão sendo coletados em tempo real.")
 
                     # Exibir o DataFrame inteiro com rolagem automática
-                    st.dataframe(data) 
+                    st.dataframe(data, use_container_width=True)
             
             except Exception as e:
                 st.error(f"Erro ao carregar os dados: {e}")
