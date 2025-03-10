@@ -3,6 +3,7 @@ import json
 import streamlit as st
 from streamlit_option_menu import option_menu
 from attention_rules import process_attention_data  # processar dados de atenção
+from attention_rules import get_latest_csv
 import subprocess
 import os
 import signal
