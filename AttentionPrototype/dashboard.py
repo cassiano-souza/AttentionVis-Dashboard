@@ -425,7 +425,8 @@ def plot_attention_pie_chart(grouped):
     fig.update_traces(
         textfont=dict(family="Open Sans, Verdana, Arial, sans-serif", color="#ffffff"),
         marker=dict(line=dict(color="white", width=1)),  # Remove bordas indesejadas
-        hovertemplate="<b>%{label}</b><br>%{percent:.2%}<extra></extra>",
+        #hovertemplate="<b>%{label}</b><br>%{percent:.2%}<extra></extra>",
+        hovertemplate='%{label}: %{percent:.2%} min<extra></extra>'
     )
 
     fig.update_layout(
