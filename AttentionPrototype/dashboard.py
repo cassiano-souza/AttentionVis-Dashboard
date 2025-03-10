@@ -497,7 +497,7 @@ def plot_sound_impact_chart(sound_impact_data):
 # Menu de Navegação
 def main_dashboard():
     # Mostrar o diretório atual no Streamlit Cloud
-    st.write("Diretório atual:", os.getcwd())
+    # st.write("Diretório atual:", os.getcwd())
     # Adicionar o logo acima do menu
     logo_path = os.path.join(os.getcwd(), "AttentionPrototype", "logo.png")
     st.sidebar.image(logo_path)

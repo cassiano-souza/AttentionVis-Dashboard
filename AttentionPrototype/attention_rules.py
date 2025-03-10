@@ -15,15 +15,17 @@ import glob
 
 
 # Pasta onde os arquivos CSV são salvos
-CSV_DIRECTORY = "/Users/cassianosouza/Projects/MediaPipe-audio/data/"
+CSV_DIRECTORY = "data"  # Diretório relativo onde os CSVs estão armazenados
 
 def get_latest_csv():
-    """Encontra o arquivo CSV mais recente na pasta. Se não houver, retorna None."""
-    csv_files = glob.glob(os.path.join(CSV_DIRECTORY, "RawMultimodalData_*.csv"))  # Pega arquivos do formato esperado
-    if not csv_files:
-        return None  # Não lança erro, apenas retorna None
-    return max(csv_files, key=os.path.getctime)  # Retorna o mais recente baseado na data de criação/modificação
-
+    """Retorna um CSV específico para garantir a execução correta no Streamlit Cloud."""
+    csv_path = os.path.join(CSV_DIRECTORY, "RawMultimodalData_2025-02-16_19-44-27.csv")
+    
+    if os.path.exists(csv_path):
+        return csv_path
+    else:
+        print(f"Arquivo CSV não encontrado: {csv_path}")
+        return None
 
 # 1. Carregar Preferências do Usuário
 def load_user_preferences():
