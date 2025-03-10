@@ -30,24 +30,33 @@ def get_latest_csv():
 # 1. Carregar Preferências do Usuário
 def load_user_preferences():
     """
-    Carrega as preferências do usuário a partir do JSON.
-    Retorna: Um dicionário contendo as preferências do usuário.
+    Carrega as preferências do usuário a partir do JSON. 
+    Se o arquivo não existir, cria um com valores padrão.
     """
-    try:
-        with open("user_preferences.json", "r", encoding="utf-8") as f:
-            preferences = json.load(f)
-        return preferences
-    except (FileNotFoundError, json.JSONDecodeError):
-        print("Erro ao carregar user_preferences.json. Usando configurações padrão.")
-        return {
-            "Foco": [],
+    preferences_file = "user_preferences.json"
+
+    # Se o arquivo não existir, cria um padrão
+    if not os.path.exists(preferences_file):
+        default_preferences = {
+            "Foco": ["Microsoft Excel", "GitHub Desktop"],
             "Contexto": {
                 "UsandoFones": False,
                 "PreferenciaMusica": "Não afeta meu foco"
             },
             "Monitores": {"Monitor 1": "Frente"}
         }
-    
+        with open(preferences_file, "w", encoding="utf-8") as f:
+            json.dump(default_preferences, f, indent=4)
+        print("⚠️ Arquivo user_preferences.json não encontrado! Criando arquivo com configurações padrão.")
+
+    # Agora tenta carregar o arquivo
+    try:
+        with open(preferences_file, "r", encoding="utf-8") as f:
+            preferences = json.load(f)
+        return preferences
+    except (FileNotFoundError, json.JSONDecodeError):
+        print("Erro crítico ao carregar user_preferences.json. Usando configurações padrão.")
+        return default_preferences
 
 
 
