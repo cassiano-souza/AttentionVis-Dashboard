@@ -137,28 +137,6 @@ def start_data_collection():
         if st.button("Iniciar Coleta"):
             csv_path = get_latest_csv()  # Obtém o arquivo CSV mais recente
 
-        if csv_path:
-            st.success("Exemplo de dados carregado com sucesso!")
-
-            try:
-                # Carregar os dados do CSV
-                data = pd.read_csv(csv_path)
-
-                # Verifica se há dados no CSV antes de exibir
-                if data.empty:
-                    st.warning("O arquivo CSV está vazio. Nenhum dado disponível.")
-                else:
-                    # Exibir uma mensagem informando que os dados são um exemplo
-                    st.warning("Esses dados são um exemplo e não estão sendo coletados em tempo real.")
-
-                    # Exibir o DataFrame inteiro com rolagem automática
-                    st.dataframe(data, use_container_width=True)
-            
-            except Exception as e:
-                st.error(f"Erro ao carregar os dados: {e}")
-        
-        else:
-            st.error("Nenhum arquivo de dados encontrado.")
 
     # Botão para Parar Coleta
     with col2:
@@ -176,6 +154,33 @@ def start_data_collection():
                 except Exception as e:
                     st.error(f"Erro ao parar a coleta: {e}")
 
+
+    # Exibir os dados SOMENTE DEPOIS das colunas (fora delas)
+    if csv_path:
+        st.success("Exemplo de dados carregado com sucesso!")
+
+        try:
+            # Carregar os dados do CSV
+            data = pd.read_csv(csv_path)
+
+            # Verifica se há dados no CSV antes de exibir
+            if data.empty:
+                st.warning("O arquivo CSV está vazio. Nenhum dado disponível.")
+            else:
+                # Exibir uma mensagem informando que os dados são um exemplo
+                st.warning("Esses dados são um exemplo e não estão sendo coletados em tempo real.")
+
+                # Exibir o DataFrame inteiro com rolagem automática
+                st.dataframe(data, use_container_width=True, height=500)
+
+        except Exception as e:
+            st.error(f"Erro ao carregar os dados: {e}")
+
+    else:
+        # Verifica se já mostramos esse erro antes para evitar repetição
+        if "csv_error_shown" not in st.session_state or not st.session_state.csv_error_shown:
+            st.warning("Nenhum arquivo de dados disponível no momento.")
+            st.session_state.csv_error_shown = True  # Marca que a mensagem já foi mostrada
 
 # 3. Página de Análise dos Dados
 def analyze_data():
