@@ -168,7 +168,7 @@ def start_data_collection():
                 st.warning("O arquivo CSV está vazio. Nenhum dado disponível.")
             else:
                 # Exibir uma mensagem informando que os dados são um exemplo
-                st.warning("Esses dados são um exemplo e não estão sendo coletados em tempo real.")
+                #st.warning("Esses dados são um exemplo e não estão sendo coletados em tempo real.")
 
                 # Exibir o DataFrame inteiro com rolagem automática
                 st.dataframe(data, use_container_width=True, height=500)
