@@ -477,7 +477,8 @@ def plot_sound_impact_chart(sound_impact_data):
     fig.update_traces(
         texttemplate='%{x:.2f} min',
         textposition="outside",
-        marker=dict(line=dict(width=0))  # Remove bordas das barras
+        marker=dict(line=dict(width=0)),  # Remove bordas das barras
+        hovertemplate='%{y}: %{x} min<extra></extra>'
     )
 
     fig.update_layout(
