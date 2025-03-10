@@ -130,6 +130,8 @@ def start_data_collection():
 
     col1, col2 = st.columns(2)
 
+    csv_path = None  # Inicializa a variável para evitar erro
+
     # Botão para Iniciar Coleta
     with col1:
         if st.button("Iniciar Coleta"):
