@@ -499,7 +499,8 @@ def main_dashboard():
     # Mostrar o diretório atual no Streamlit Cloud
     st.write("Diretório atual:", os.getcwd())
     # Adicionar o logo acima do menu
-    st.sidebar.image("logo.png")
+    logo_path = os.path.join(os.getcwd(), "AttentionPrototype", "logo.png")
+    st.sidebar.image(logo_path)
 
     # Criar menu estilizado
     with st.sidebar:
