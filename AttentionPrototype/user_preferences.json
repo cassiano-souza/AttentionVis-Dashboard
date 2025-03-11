@@ -13,7 +13,7 @@
     ],
     "Contexto": {
         "UsandoFones": false,
-        "PreferenciaMusica": "Me distrai"
+        "PreferenciaMusica": "Não afeta meu foco"
     },
     "FocoURLs": [
         "localhost:8501",
